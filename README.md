@@ -1,6 +1,6 @@
 # Trello Clone
 
-This is a Trello Clone web app built by David Leong.
+This is a Trello Clone web app
 
 ## Requirements
 
